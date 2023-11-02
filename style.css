@@ -1,0 +1,32 @@
+h3{
+    color:blanchedalmond;
+    background-color:goldenrod;
+    padding:20px;
+    margin:0px;
+    box-shadow:1px 2px 30px black;
+}
+
+h3 .Note{
+color:aliceblue;
+
+}
+
+#footer{
+    color:black;
+    background-color:aliceblue;
+    padding:10px;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    margin-bottom:0px;
+    box-shadow:1px -2px 30px black ;
+}
+
+canvas{
+    background-color:grey;
+    border:1px dotted black ;
+}
+
+body{
+    background-image:url("https://img.freepik.com/premium-vector/hand-drawn-background-set-cute-speech-bubble-eith-text-doodle-style_111016-1160.jpg"); ;
+}
